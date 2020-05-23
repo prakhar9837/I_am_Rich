@@ -1,6 +1,6 @@
 # iamrich
 
-A new Flutter application.
+A simple Flutter application. This Application has a funny story. This application i.e. "I am Rich" app is created for IOS at a price of $999. This application just displays a single image of a diamond with an AppBar and an AppIcon, but still some people purchased that App in order to show that they are rich.
 
 ## Getting Started
 
